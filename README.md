@@ -1,3 +1,3 @@
 # Calculadora-IMC
 
-VAI SE FUDER TCHUCO
+Calculadora de imc desenvolvido com javaScript html e css
